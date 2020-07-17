@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="RNR2013.svg"
+   inkscape:export-filename="/home/adonias/Downloads/RNR2013.png"
+   inkscape:export-xdpi="299.91989"
+   inkscape:export-ydpi="299.91989">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4346">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4348" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4350" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4314">
+      <stop
+         style="stop-color:#0044aa;stop-opacity:1"
+         offset="0"
+         id="stop4316" />
+      <stop
+         id="stop4324"
+         offset="0.5"
+         style="stop-color:#5599ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1"
+         offset="1"
+         id="stop4318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3425">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop3427" />
+      <stop
+         id="stop3433"
+         offset="0.52267289"
+         style="stop-color:#ffcc00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:0"
+         offset="1"
+         id="stop3429" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3362">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3364" />
+      <stop
+         id="stop3370"
+         offset="0.49584997"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="1"
+         id="stop3366" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3237">
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1"
+         offset="0"
+         id="stop3239" />
+      <stop
+         id="stop3245"
+         offset="0.5"
+         style="stop-color:#ffdd55;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="1"
+         id="stop3241" />
+    </linearGradient>
+    <filter
+       id="filter3247"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3249"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter3093"
+       inkscape:label="Outline, double"
+       inkscape:menu="Morphology"
+       inkscape:menu-tooltip="Draws a smooth line inside colorized with the color it overlays"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3095"
+         stdDeviation="3"
+         in="SourceAlpha"
+         result="result1" />
+      <feComposite
+         id="feComposite3097"
+         in2="result1"
+         operator="arithmetic"
+         k2="3.2"
+         k1="-1"
+         k4="-2"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix3099"
+         values="0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite3101"
+         in2="result2"
+         result="fbSourceGraphic"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur3103"
+         in="fbSourceGraphic"
+         stdDeviation="0.5"
+         result="result4" />
+      <feComposite
+         id="feComposite3105"
+         in2="result4"
+         operator="xor"
+         in="result4"
+         result="result5" />
+      <feBlend
+         id="feBlend3107"
+         in2="result5"
+         result="result6"
+         mode="darken"
+         in="result5" />
+      <feBlend
+         id="feBlend3109"
+         in2="result6"
+         in="result6"
+         mode="darken" />
+    </filter>
+    <marker
+       orient="auto"
+       markerHeight="3"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       refY="5"
+       refX="10"
+       viewBox="0 0 10 10"
+       id="ArrowStart">
+      <path
+         id="path3057"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="3"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       refY="5"
+       refX="0"
+       viewBox="0 0 10 10"
+       id="ArrowEnd">
+      <path
+         id="path3054"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3362"
+       id="linearGradient3443"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1671908,0,0,3.1671908,853.83707,167.30019)"
+       x1="-279.68237"
+       y1="94.166916"
+       x2="-6.4241772"
+       y2="92.4617" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3362-5"
+       id="linearGradient3443-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2503167,0,0,1.2503167,-222.27551,26.917238)"
+       x1="-295"
+       y1="117.36219"
+       x2="7.1428571"
+       y2="115.21933" />
+    <linearGradient
+       id="linearGradient3362-5">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3364-5" />
+      <stop
+         id="stop3370-1"
+         offset="0.5"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="1"
+         id="stop3366-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4314"
+       id="linearGradient4320"
+       x1="-488.11356"
+       y1="355.4408"
+       x2="-258.38809"
+       y2="118.09706"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5331108,0,0,2.5331108,1416.8855,99.115839)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346"
+       id="linearGradient4352"
+       x1="374.28571"
+       y1="792.36218"
+       x2="364.28571"
+       y2="103.79076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79187498,0,0,0.79187498,38.25136,56.103185)" />
+    <linearGradient
+       id="linearGradient4314-8">
+      <stop
+         style="stop-color:#0044aa;stop-opacity:1"
+         offset="0"
+         id="stop4316-6" />
+      <stop
+         id="stop4324-7"
+         offset="0.5"
+         style="stop-color:#5599ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1"
+         offset="1"
+         id="stop4318-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3362-9"
+       id="linearGradient3443-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0842257,0,0,2.0842257,634.76855,97.756077)"
+       x1="-279.68237"
+       y1="94.166916"
+       x2="-6.4241772"
+       y2="92.4617" />
+    <linearGradient
+       id="linearGradient3362-9">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3364-1" />
+      <stop
+         id="stop3370-2"
+         offset="0.49584997"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="1"
+         id="stop3366-0" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38760249"
+     inkscape:cx="558.46586"
+     inkscape:cy="673.01382"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false"
+     inkscape:snap-nodes="false"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient3443);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5196"
+       d="m 394.24496,224.22548 c 179.36989,0 324.83103,145.4651 324.83103,324.83103 0,7.14993 -0.23762,14.23651 -0.69679,21.26766 -89.49687,-37.43223 -197.29219,-59.28584 -313.29847,-59.28584 -125.21093,0 -240.84505,25.46024 -334.245531,68.49052 -0.930361,-10.03604 -1.421268,-20.19085 -1.421268,-30.47234 0,-179.36593 145.461149,-324.83103 324.831029,-324.83103 z"
+       id="path3437"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       style="fill-rule:evenodd"
+       id="g3151"
+       transform="matrix(1.8995009,0,0,1.8995009,-1898.8701,-783.47752)" />
+    <g
+       id="g3028"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="matrix(1.5196007,0,0,1.5196007,-110.75765,18.749994)">
+      <g
+         id="g3032">
+        <path
+           id="path3058"
+           style="fill:#ffffff;stroke:none"
+           d="m 314.11361,259.37934 6.96959,-109.39348 5.3189,-14.12256 19.99169,10.27094 10.45434,128.4681 h -7.88663 z m 2.01751,-31.81105 5.86913,-10.27095 30.81288,9.3539 m -32.46358,35.76495 6.05255,-126.36946 m -15.77327,159.75008 -48.60364,-6.05255 38.88292,-8.43685 -47.5032,-33.01379 95.55659,30.81287 103.25983,2.75113 -94.82295,13.20554 0.31268,29.20558 c -15.33166,-0.36795 -31.61445,-0.42538 -47.3039,0.43047 z m -48.60174,-6.03867 v -8.07002 l 32.86604,-4.62881 6.09479,4.27853 z m -8.80557,-41.46452 -0.18341,-15.58983 95.92339,41.81746 103.07641,-1.10046 v 8.43683 l -103.40388,-2.51353 z m 62.17598,41.26722 -14.12257,-8.07002 m 40.717,8.25344 6.96957,-10.27095"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:url(#linearGradient4320);fill-opacity:1;stroke:none;stroke-width:1.5196"
+       d="M 712.2482,619.20836 C 644.81564,898.81198 283.02049,968.61624 117.8004,721.64143 220.25907,776.27281 310.27803,808.65956 412.80717,772.8287 503.52267,741.12636 529.98597,620.72896 712.2482,619.20836 Z"
+       id="path4312"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.9079px;line-height:0%;font-family:'Hand Of Sean';-inkscape-font-specification:'Hand Of Sean';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.57566"
+       x="223.22064"
+       y="617.00848"
+       id="text3035"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"><tspan
+         sodipodi:role="line"
+         id="tspan3037"
+         x="223.22064"
+         y="617.00848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.0264px;line-height:1.25;font-family:'Hand Of Sean (Demo)';-inkscape-font-specification:'Hand Of Sean (Demo)';stroke-width:1.57566">RNR 2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.8745px;line-height:0%;font-family:'Hand Of Sean';-inkscape-font-specification:'Hand Of Sean';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.73953"
+       x="128.01067"
+       y="683.75732"
+       id="text3050"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"><tspan
+         sodipodi:role="line"
+         id="tspan3052"
+         x="128.01067"
+         y="683.75732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.1639px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter';stroke:none;stroke-width:1.73953">João Pessoa</tspan></text>
+    <g
+       id="g3044"
+       transform="matrix(1.5196007,0,0,1.5196007,58.274605,-15.760169)"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3214"
+         d="m 352.86911,394.92169 c -15.22306,-9.76826 -30.21406,-16.58863 -44.45154,-13.83707 14.94997,-1.32463 29.70075,6.25656 44.45154,13.83707 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.105654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccssc"
+         inkscape:connector-curvature="0"
+         id="path3207"
+         d="m 350.26132,396.94274 c -2.70483,-23.34765 -23.02318,-35.28121 -41.21116,-13.31396 3.57105,-3.47952 6.94434,-6.0437 10.16857,-7.68347 9.70561,-4.93608 19.0872,-0.52194 24.42959,6.04214 3.08274,3.78771 5.05403,9.11687 6.61301,14.95528 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.105654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3277"
+         d="m 348.60532,391.95487 c 0.0413,-0.18022 -1.44976,-3.81096 -2.12045,-5.16334 -2.47739,-4.99538 -6.19227,-8.73403 -10.98539,-11.05567 -1.72,-0.83312 -4.81175,-1.63619 -6.64087,-1.72493 -4.9347,-0.23943 -9.58731,1.44549 -14.57601,5.27867 -1.29909,0.99818 -1.46851,1.17754 -1.06149,1.12382 1.0025,-0.13232 4.48325,0.0164 6.89672,0.29473 1.65114,0.1904 5.09713,0.95447 7.45232,1.65239 5.98677,1.77405 11.45759,4.22519 18.57618,8.32284 2.60201,1.49777 2.42778,1.40768 2.45899,1.27149 z"
+         style="fill:#c87137;fill-opacity:1;stroke:#000000;stroke-width:0.0681459" />
+      <path
+         transform="matrix(-0.04978579,-0.01235203,-0.01235203,0.04978579,422.37462,376.69999)"
+         inkscape:transform-center-y="0.091190974"
+         inkscape:transform-center-x="-0.23971278"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.3491546"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="25.267803"
+         sodipodi:r1="66.892715"
+         sodipodi:cy="474.45053"
+         sodipodi:cx="1710.5153"
+         sodipodi:sides="5"
+         id="path3209"
+         style="fill:none;stroke:#ffffff;stroke-width:4.87375"
+         sodipodi:type="star"
+         d="m 1757.8156,521.75082 -41.7457,-22.65059 -35.9233,34.95215 8.6419,-46.70188 -44.3424,-23.36429 47.0866,-6.21276 8.5182,-49.39207 20.4593,42.86218 49.6069,-7.16169 -34.4421,32.70304 z" />
+      <path
+         transform="matrix(-0.03104882,-0.00770333,-0.00770333,0.03104882,398.27576,383.02356)"
+         inkscape:transform-center-y="0.056864603"
+         inkscape:transform-center-x="-0.1494992"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.3491546"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="25.267803"
+         sodipodi:r1="66.892715"
+         sodipodi:cy="474.45053"
+         sodipodi:cx="1710.5153"
+         sodipodi:sides="5"
+         id="path3209-2"
+         style="fill:none;stroke:#ffffff;stroke-width:7.8149"
+         sodipodi:type="star"
+         d="m 1757.8156,521.75082 -41.7457,-22.65059 -35.9233,34.95215 8.6419,-46.70188 -44.3424,-23.36429 47.0866,-6.21276 8.5182,-49.39207 20.4593,42.86218 49.6069,-7.16169 -34.4421,32.70304 z" />
+      <path
+         transform="matrix(-0.03104882,-0.00770333,-0.00770333,0.03104882,378.26548,376.73927)"
+         inkscape:transform-center-y="0.056867288"
+         inkscape:transform-center-x="-0.14950022"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.3491546"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="25.267803"
+         sodipodi:r1="66.892715"
+         sodipodi:cy="474.45053"
+         sodipodi:cx="1710.5153"
+         sodipodi:sides="5"
+         id="path3209-2-0"
+         style="fill:none;stroke:#ffffff;stroke-width:7.8149"
+         sodipodi:type="star"
+         d="m 1757.8156,521.75082 -41.7457,-22.65059 -35.9233,34.95215 8.6419,-46.70188 -44.3424,-23.36429 47.0866,-6.21276 8.5182,-49.39207 20.4593,42.86218 49.6069,-7.16169 -34.4421,32.70304 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9956px;line-height:0%;font-family:'Hand Of Sean';-inkscape-font-specification:'Hand Of Sean';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83297"
+       x="174.99498"
+       y="713.27783"
+       id="text3040"
+       inkscape:export-filename="/home/adonias/Documentos/RNR2013_500.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"><tspan
+         sodipodi:role="line"
+         id="tspan3042"
+         x="174.99498"
+         y="713.27783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.1034px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter';stroke-width:1.83297">Paraíba - Brasil</tspan></text>
+  </g>
+</svg>
