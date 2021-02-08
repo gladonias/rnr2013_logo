@@ -83,29 +83,3 @@ Sub-licenses are not authorized by this license. Any person wishing to make use 
 
 11. LEGAL FRAMEWORK
 This license is written with respect to both French law and the Berne Convention for the Protection of Literary and Artistic Works.
-
-USER GUIDE
-
-– How to use the Free Art License?
-To benefit from the Free Art License, you only need to mention the following elements on your work:
-[Name of the author, title, date of the work. When applicable, names of authors of the common work and, if possible, where to find the originals].
-Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License [http://artlibre.org/licence/lal/en/](http://artlibre.org/licence/lal/en/).
-
-– Why to use the Free Art License?
-1.To give the greatest number of people access to your work.
-2.To allow it to be distributed freely.
-3.To allow it to evolve by allowing its copy, distribution, and transformation by others.
-4.So that you benefit from the resources of a work when it is under the Free Art License: to be able to copy, distribute or transform it freely.
-5.But also, because the Free Art License offers a legal framework to disallow any misappropriation. It is forbidden to take hold of your work and bypass the creative process for one’s exclusive possession.
-
-– When to use the Free Art License?
-Any time you want to benefit and make others benefit from the right to copy, distribute and transform creative works without any exclusive appropriation, you should use the Free Art License. You can for example use it for scientific, artistic or educational projects.
-
-– What kinds of works can be subject to the Free Art License?
-The Free Art License can be applied to digital as well as physical works.
-You can choose to apply the Free Art License on any text, picture, sound, gesture, or whatever sort of stuff on which you have sufficient author’s rights.
-
-– Historical background of this license:
-It is the result of observing, using and creating digital technologies, free software, the Internet and art. It arose from the « Copyleft Attitude » meetings which took place in Paris in 2000. For the first time, these meetings brought together members of the Free Software community, artists, and members of the art world. The goal was to adapt the principles of Copyleft and free software to all sorts of creations. [http://www.artlibre.org](http://www.artlibre.org)
-
-Copyleft Attitude, 2007.
